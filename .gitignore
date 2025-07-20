@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Virtual environment folders
+venv/
+.venv/
+
+# Environment variables & secrets
+.env
+
+# macOS system files
+.DS_Store
+
+# VSCode workspace settings
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Log files
+*.log
+
+# CSV files (remove this if you want to track your CSV)
+# *.csv
